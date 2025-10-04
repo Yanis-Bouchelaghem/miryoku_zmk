@@ -1,0 +1,5 @@
+
+outboard_repository=M165437/nice-view-gem
+outboard_ref=main
+outboard_from=boards/shields/nice_view_gem
+outboard_to=boards/shields/nice_view_gem
