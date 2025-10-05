@@ -15,6 +15,6 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 
 #define MIRYOKU_LAYER_NAV \
 &kp F1,            &kp F2,            &kp F3,            &kp F4,            &u_out_tog,        U_RDO,             U_PST,             U_CPY,             U_CUT,             U_UND,             \
-U_MT(LGUI, F5),    U_MT(LALT, F6),    U_MT(LSHFT, F7),   U_MT(LCTRL, F8),   &u_ep_tog,         &kp LEFT,          &kp DOWN,          &kp UP,            &kp RIGHT,         &u_caps_word,      \
+U_MT(LGUI, F5),    U_MT(LALT, F6),    U_MT(LSHFT, F7),   U_MT(LCTRL, F8),   U_EP_TOG,         &kp LEFT,          &kp DOWN,          &kp UP,            &kp RIGHT,         &u_caps_word,      \
 &kp F9,            &kp F10,           &kp F11,           &kp F12,           U_NA,              &kp HOME,          &kp PG_DN,         &kp PG_UP,         &kp END,           &kp INS,           \
 U_NP,              U_NP,              &bt BT_CLR,        U_NA,              &bt BT_NXT,        &kp RET,           &kp BSPC,          &kp DEL,           U_NP,              U_NP
