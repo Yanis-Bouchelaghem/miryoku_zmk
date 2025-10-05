@@ -4,3 +4,14 @@
 #include "../miryoku/custom_config.h"
 #include "../miryoku/mapping/42/corne.h"
 #include "../miryoku/miryoku.dtsi"
+
+/ {
+    combos {
+        compatible = "zmk,combos";
+        combo_out_tog {
+            timeout-ms = <50>;
+            key-positions = <35 36 37>;  // left thumb keys
+            bindings = <&u_out_tog>;
+        };
+    };
+};
